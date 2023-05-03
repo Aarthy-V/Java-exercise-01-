@@ -1,0 +1,14 @@
+Execute the given program codes written in C to answer the following
+questions:
+(a) Display the outputs of these codes?
+(b) What are the system calls you have used in that code and explain
+the purpose of those calls.
+(c) Distinguish process system calls from I/O system calls?
+(d) There are di
+erent types of system calls. Consider the following
+types, provide examples for each type and explain their purpose.
+i. Process Control
+ii. File Management
+iii. Device Management
+iv. Information Maintenance
+v. Communication
