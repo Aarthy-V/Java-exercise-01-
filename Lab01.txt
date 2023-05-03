@@ -12,3 +12,6 @@ ii. File Management
 iii. Device Management
 iv. Information Maintenance
 v. Communication
+
+
+EDITED VERSION
